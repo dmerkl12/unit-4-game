@@ -1,0 +1,21 @@
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+#crystal-main {
+    width: 70%;
+    border: 2px solid gray;
+    padding: 50px;
+    background: black;
+    color: whitesmoke;
+    box-shadow: .2rem .2rem .2rem slategray;
+}
+#user-score {
+    color: whitesmoke;
+}
+
+#target-number {
+
+    color: whitesmoke;
+}
